@@ -1,6 +1,6 @@
 # Grade Report: Data Mining and Analytics 
 
-**Student:** 220242506098  
+**Student:** 220242406098  
 **Semester:** _ONE_                               
 **Academic Year:** _2025/2026_
 
